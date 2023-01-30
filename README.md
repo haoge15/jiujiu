@@ -33,3 +33,8 @@ line-height: 1.8em">
 window.external.AddFavorite("xxxx.com","xxxxx名称");
 
 </script>
+<form target="_blank" action="http://www.kooxoo.com/search" method=get> 
+
+<td height="40" align="center"><input type=hidden name=T value='Train'> 
+
+<input type=hidden name=OEM value='baidu'> 
